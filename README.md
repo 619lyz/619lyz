@@ -2,6 +2,17 @@
 
 <h3 align="center">🤖 机器人 · 🧠 具身智能 · 🎮 Sim-to-Real · 👁️ 计算机视觉</h3>
 
+<p align="center">
+  <a href="./assets/wechat_qr.jpg">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+</p>
+
 ---
 
 ## 🧑‍💻 关于我
@@ -33,12 +44,7 @@
 
 ## 📫 联系方式
 
-* 📧 Email: **[yizhou008@e.ntu.edu.sg](mailto:yizhou008@e.ntu.edu.sg)**
-
-```text
-yizhou008@e.ntu.edu.sg
-```
-
+* 📧 Email: **[YIZHOU008@e.ntu.edu.sg](mailto:YIZHOU008@e.ntu.edu.sg)**
 * 💬 WeChat: **lyz806656442** ｜ [点击查看二维码](./assets/wechat_qr.jpg)
 * 🐙 GitHub: **@619666lyz**
 

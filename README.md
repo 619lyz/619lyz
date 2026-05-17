@@ -72,4 +72,4 @@
 
 📧 Email: [YIZHOU008@e.ntu.edu.sg](mailto:YIZHOU008@e.ntu.edu.sg)  
 💬 WeChat: lyz806656442 ｜ [点击查看二维码 / QR Code](./assets/wechat_qr.jpg)  
-🐙 GitHub: [@619666lyz](https://github.com/619666lyz)
+🐙 GitHub: [@619lyz](https://github.com/619lyz)

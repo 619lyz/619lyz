@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 M.Sc. in EEE, NTU  
+🎓 M.Sc. in EEE, NTU | Computer Control and Automation  
 
 🤖 Interested in Robot Learning, Embodied AI and Sim-to-Real  
 

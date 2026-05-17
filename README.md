@@ -22,16 +22,6 @@
 
 👁️ 感兴趣方向包括目标检测、策略学习与机器人控制  
 
-<br>
-
-## 🔬 研究兴趣
-
-- 🤖 机器人学习 / 具身智能
-- 🧠 Vision-Language-Action 模型
-- 🎮 Sim-to-Real 强化学习
-- 🕹️ Diffusion Policy
-- 👁️ 计算机视觉 / 目标检测
-
 </td>
 <td width="50%" valign="top">
 
@@ -43,7 +33,22 @@
 
 👁️ Focused on Object Detection, Policy Learning and Robot Control  
 
-<br>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🔬 研究兴趣
+
+- 🤖 机器人学习 / 具身智能
+- 🧠 Vision-Language-Action 模型
+- 🎮 Sim-to-Real 强化学习
+- 🕹️ Diffusion Policy
+- 👁️ 计算机视觉 / 目标检测
+
+</td>
+<td width="50%" valign="top">
 
 ## 🔬 Research Interests
 

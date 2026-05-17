@@ -1,10 +1,6 @@
 # 👋 你好，我是刘一舟 | Hi, I'm Liu Yizhou
 
-<h3 align="center">
-  🤖 机器人学习 / Robot Learning · 🧠 具身智能 / Embodied AI · 🎮 Sim-to-Real
-  <br>
-  🕹️ Diffusion Policy · 👁️ 视觉感知 / Visual Perception
-</h3>
+<h3 align="center">🤖 机器人学习 / Robot Learning · 🧠 具身智能 / Embodied AI · 🎮 Sim-to-Real · 🕹️ Diffusion Policy · 👁️ 视觉感知 / Visual Perception</h3>
 
 <p align="center">
   <a href="./assets/wechat_qr.jpg">

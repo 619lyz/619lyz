@@ -1,4 +1,4 @@
-# 👋 你好，我是刘一舟 | Hi, I'm Liu Yizhou
+<h1 align="center">👋 你好，我是刘一舟 | Hi, I'm Liu Yizhou</h1>
 
 <h3 align="center">🤖 机器人 / Robot · 🧠 具身智能 / Embodied AI · 🎮 Sim-to-Real · 🕹️ Diffusion Policy · 👁️ 视觉感知 / CV </h3>
 
@@ -10,9 +10,11 @@
 
 ---
 
-<table width="100%">
+<div align="center">
+
+<table width="85%" align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ## 🧑‍💻 关于我
 
@@ -23,7 +25,7 @@
 👁️ 感兴趣方向包括目标检测、策略学习与机器人控制  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ## 🧑‍💻 About Me
 
@@ -37,7 +39,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ## 🔬 研究兴趣
 
@@ -48,7 +50,7 @@
 - 👁️ 计算机视觉 / 目标检测
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ## 🔬 Research Interests
 
@@ -61,6 +63,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 

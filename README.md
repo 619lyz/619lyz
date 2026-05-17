@@ -10,38 +10,19 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧑‍💻 关于我
 
-🎓 NTU 电子与电气工程硕士，计算机控制与自动化专业  
+🎓 NTU EEE 硕士，计算机控制与自动化方向  
 
 🤖 关注机器人学习、具身智能与 Sim-to-Real  
 
-👁️ 感兴趣方向包括目标检测、仿真训练、策略学习与机器人控制  
+👁️ 感兴趣方向包括目标检测、策略学习与机器人控制  
 
-</td>
-<td width="50%">
-
-## 🧑‍💻 About Me
-
-🎓 M.Sc. student in Electrical and Electronic Engineering at NTU, majoring in Computer Control and Automation  
-
-🤖 Interested in robot learning, embodied intelligence and Sim-to-Real  
-
-👁️ Focused on object detection, simulation training, policy learning and robot control  
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
+<br>
 
 ## 🔬 研究兴趣
 
@@ -52,7 +33,17 @@
 - 👁️ 计算机视觉 / 目标检测
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+## 🧑‍💻 About Me
+
+🎓 M.Sc. in EEE, NTU  
+
+🤖 Interested in Robot Learning, Embodied AI and Sim-to-Real  
+
+👁️ Focused on Object Detection, Policy Learning and Robot Control  
+
+<br>
 
 ## 🔬 Research Interests
 

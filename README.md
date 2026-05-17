@@ -1,6 +1,6 @@
-# 👋 Hi, I'm 刘一舟
+# 👋 你好，我是刘一舟
 
-<h3 align="center">🤖 Robotics · Embodied AI · Sim-to-Real · Computer Vision</h3>
+<h3 align="center">🤖 机器人 · 🧠 具身智能 · 🎮 Sim-to-Real · 👁️ 计算机视觉</h3>
 
 <p align="center">
   <a href="./assets/wechat_qr.jpg">
@@ -10,25 +10,25 @@
 
 ---
 
-## About Me
+## 🧑‍💻 关于我
 
-🎓 M.Sc. student in Computer Control and Automation, NTU EEE  
-🤖 Interested in Robotics, Embodied Intelligence and Sim-to-Real Learning  
-👁️ Focused on Robot Learning, Policy Learning, Object Detection and Control  
-
----
-
-## Research Interests
-
-- Robot Learning / Embodied AI
-- Vision-Language-Action Models
-- Sim-to-Real Reinforcement Learning
-- Computer Vision / Object Detection
+🎓 NTU 电子与电气工程硕士，计算机控制与自动化专业  
+🤖 关注机器人学习、具身智能与 Sim-to-Real  
+👁️ 感兴趣方向包括目标检测、仿真训练、策略学习与机器人控制  
 
 ---
 
-## Contact
+## 🔬 研究兴趣
+
+- 🤖 机器人学习 / 具身智能
+- 🧠 Vision-Language-Action 模型
+- 🎮 Isaac Sim / Isaac Lab / Sim-to-Real 强化学习
+- 👁️ 计算机视觉 / 目标检测
+
+---
+
+## 📫 联系方式
 
 📧 Email: [YIZHOU008@e.ntu.edu.sg](mailto:YIZHOU008@e.ntu.edu.sg)  
-💬 WeChat: lyz806656442 ｜ [QR Code](./assets/wechat_qr.jpg)  
+💬 WeChat: lyz806656442 ｜ [点击查看二维码](./assets/wechat_qr.jpg)  
 🐙 GitHub: [@619666lyz](https://github.com/619666lyz)

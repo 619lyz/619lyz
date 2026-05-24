@@ -33,7 +33,7 @@
 
 🤖 Interested in Robot Learning, Embodied AI and Sim-to-Real  
 
-👁️ Focused on Object Detection, Policy Learning and Robot Control  
+👁️ Focused on Object Detection, Policy Learning and Robot Control.
 
 </td>
 </tr>
